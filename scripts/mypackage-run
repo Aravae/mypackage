@@ -1,2 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+from mypackage.lib import hello_world
+
+print(hello_world())
